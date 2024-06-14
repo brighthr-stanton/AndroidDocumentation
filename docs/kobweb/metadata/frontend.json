@@ -1,0 +1,1 @@
+{"appEntry":{"fqn":"MyApp"},"frontendData":{"pages":[{"fqn":"com.brighthr.READMEPage","route":"/readme"},{"fqn":"com.brighthr.KoveragePage","route":"/koverage"},{"fqn":"com.brighthr.IndexPage","route":"/"}],"silkInits":[{"fqn":"initSilk"}]}}
